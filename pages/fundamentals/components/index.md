@@ -1,3 +1,4 @@
+![Screenshot_20240628_021920_Drive](https://github.com/w3c/wai-website/assets/147888464/17df74ac-945a-4dcb-b7c3-cadff7b7d5be)
 ---
 # Translation instructions are after the "#" character in this first section. They are comments that do not show up in the web page. You do not need to translate the instructions after "#".
 # In this first section, do not translate the words before a colon. For example, do not translate "title:". Do translate the text after "title:"
